@@ -31,7 +31,7 @@ const About = () => {
             
           </div>
           <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias voluptas et aspernatur fugit, ipsam unde iste fugiat reiciendis temporibus sed dolor nihil tempora consequatur adipisci reprehenderit ut quod deserunt. In?
+            Experiência Profissional de mais de 1 ano em Web Development. Busco aprimorar ainda mais as minhas habilidades de análise e resolução de problemas, minha comunicação com a equipe e meus conhecimentos técnicos para que eu cresça e seja também uma ótima adição à empresa.
           </p>
           <a href="#contact" className='btn btn-primary'>Entre em contato</a>
         </div>

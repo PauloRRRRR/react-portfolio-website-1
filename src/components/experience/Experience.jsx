@@ -63,28 +63,28 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>NodeJs</h4>
-                <small className='text-light'>Experiente</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Sqlite / MySql</h4>
-                <small className='text-light'>Experiente</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Prisma</h4>
-                <small className='text-light'>Experiente</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Postgre</h4>
-                <small className='text-light'>Experiente</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
           </div>
